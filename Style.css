@@ -238,7 +238,8 @@ span{ /*blauw achetrgrond voor hover of klikken*/
 #Les1,
 #Les2,
 #Les3,
-#Les4 {
+#Les4,
+#STYLE{
 	color: white;
 	text-align: center;
 	font-size: 25px;
