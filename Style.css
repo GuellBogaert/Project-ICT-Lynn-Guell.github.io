@@ -147,7 +147,7 @@ span{ /*blauw achetrgrond voor hover of klikken*/
 /*les 1*/
 .banner1{	/*achtergrond*/
 	width: 100%;
-	background: linear-gradient(rgba(0,0,0,0.75),black), url(foto4.png);
+	background: linear-gradient(rgba(0,0,0,0.75),black), url(foto4.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
